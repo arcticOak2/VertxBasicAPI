@@ -1,0 +1,4 @@
+step 1:
+	mvn clean install
+step 2: 
+	run main method in BasicWebVerticle.java
