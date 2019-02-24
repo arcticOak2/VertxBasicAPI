@@ -13,9 +13,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-package com.anihillator.vertx.api;
+package com.annihilator.vertx.api;
 
-import com.anihillator.vertx.resources.ApiResources;
+import com.annihilator.vertx.resources.ApiResources;
 
 import io.vertx.config.ConfigRetriever;
 import io.vertx.core.AbstractVerticle;
